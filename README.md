@@ -8,7 +8,7 @@ O **Grana em Dia AI** é um conceito de aplicativo de finanças pessoais com int
 
 A proposta é substituir planilhas complicadas e interfaces frias por uma experiência mais simples, parecida com uma conversa com um assistente financeiro digital.
 
-Exemplos de uso:
+### Exemplos de uso
 - “Recebi 2500 hoje”
 - “Gastei 42 no mercado”
 - “Paguei 120 de internet”
@@ -87,5 +87,5 @@ Também percebi que a qualidade do resultado depende muito da qualidade das inst
 
 ## Entrega
 
-Repositório do projeto:
+Repositório do projeto:  
 [https://github.com/TonyCCintra/dio-lab-vibe-coding-app-financas](https://github.com/TonyCCintra/dio-lab-vibe-coding-app-financas)
