@@ -14,9 +14,13 @@ A proposta é substituir planilhas complicadas e interfaces frias por uma experi
 - “Paguei 120 de internet”
 - “Quero economizar 200 por mês”
 
-## Resumo do conceito
+## Resumo do conceito do app
 
-O app foi pensado para funcionar como um agente financeiro conversacional. A IA interpreta o que o usuário escreve, identifica valores, entende contexto, classifica as movimentações e apresenta respostas úteis.
+O app foi pensado como uma solução simples para organização financeira pessoal com apoio de IA. A proposta é permitir que o usuário registre gastos por conversa, receba categorização automática e acompanhe metas financeiras de forma mais intuitiva do que em planilhas ou aplicativos tradicionais.
+
+## Reflexão sobre o processo
+
+Neste desafio, aprendi a transformar uma ideia em um conceito mais claro e estruturado, usando a IA como parceira no processo. Também entendi a importância de escrever um bom README, porque ele comunica a ideia do projeto, organiza a entrega e mostra profissionalismo mesmo em um projeto inicial.
 
 ### Principais ideias do app
 - Registro de gastos e receitas por texto livre
