@@ -30,6 +30,7 @@ O app foi pensado para funcionar como um agente financeiro conversacional. A IA 
 
 ## Prompt final (PRD)
 
+```txt
 # Contexto
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.
 A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
@@ -51,6 +52,7 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 # Entregável da IA
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.
 Usar tom educativo e linguagem acessível, em português.
+```
 
 ## Interações com a IA
 
