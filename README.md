@@ -56,7 +56,9 @@ Usar tom educativo e linguagem acessível, em português.
 
 ## Interações com a IA
 
-Adicione aqui os prints ou vídeos do processo.
+Registro da interação com a IA durante o ajuste do PRD e da estrutura do README:
+
+![Print 1](./Perplexity%2029_05_2026%2020_18_36.png)
 
 Exemplo:
 ![Print 1](./docs/print-1.png)
