@@ -16,13 +16,9 @@ A proposta é substituir planilhas complicadas e interfaces frias por uma experi
 
 ## Resumo do conceito do app
 
-O app foi pensado como uma solução simples para organização financeira pessoal com apoio de IA. A proposta é permitir que o usuário registre gastos por conversa, receba categorização automática e acompanhe metas financeiras de forma mais intuitiva do que em planilhas ou aplicativos tradicionais.
+O Grana em Dia AI propõe uma forma mais simples de organizar finanças pessoais por meio de conversas em linguagem natural, com apoio de IA para classificar gastos, acompanhar metas e gerar orientações básicas.
 
-## Reflexão sobre o processo
-
-Neste desafio, aprendi a transformar uma ideia em um conceito mais claro e estruturado, usando a IA como parceira no processo. Também entendi a importância de escrever um bom README, porque ele comunica a ideia do projeto, organiza a entrega e mostra profissionalismo mesmo em um projeto inicial.
-
-### Principais ideias do app
+## Principais ideias do app
 - Registro de gastos e receitas por texto livre
 - Classificação automática por categorias
 - Saldo atualizado em tempo real
@@ -60,14 +56,9 @@ Usar tom educativo e linguagem acessível, em português.
 
 ## Interações com a IA
 
-Adicione aqui os prints ou vídeos do processo.
-
-Exemplo:
-![Print 1](./docs/print-1.png)
-![Print 2](./docs/print-2.png)
-
 Registro da interação com a IA durante o ajuste do PRD e da estrutura do README:
 
+![Print 1](./Perplexity%2029_05_2026%2020_18_36.png)
 
 ## Estrutura do MVP
 
@@ -79,20 +70,20 @@ Registro da interação com a IA durante o ajuste do PRD e da estrutura do READM
 - Tela de relatórios simples
 
 ### Funcionalidades do MVP
-1. Registrar receitas e despesas por linguagem natural
-2. Classificar gastos automaticamente
-3. Exibir saldo atual
-4. Mostrar histórico recente
-5. Gerar resumo mensal
-6. Sugerir dicas básicas de economia
+- Registrar receitas e despesas por linguagem natural
+- Classificar gastos automaticamente
+- Exibir saldo atual
+- Mostrar histórico recente
+- Gerar resumo mensal
+- Sugerir dicas básicas de economia
 
 ## Reflexão sobre o processo
 
-Com este desafio, aprendi que criar com IA exige direção, clareza e senso de produto. O maior aprendizado não foi apenas imaginar um app, mas transformar uma ideia solta em um conceito estruturado, com problema, público, funcionalidades e proposta de valor bem definidos.
+Neste desafio, aprendi a transformar uma ideia em um conceito mais claro e estruturado, usando a IA como parceira no processo. Também entendi a importância de escrever um bom README, porque ele comunica a ideia do projeto, organiza a entrega e mostra profissionalismo mesmo em um projeto inicial.
 
 Também percebi que a qualidade do resultado depende muito da qualidade das instruções dadas à IA. Quanto mais claro o prompt, melhor a resposta. O processo mostrou que conversar com IA não é apenas pedir algo, mas saber ajustar, testar e refinar até chegar em algo mais próximo do objetivo.
 
 ## Entrega
 
 Repositório do projeto:  
-[https://github.com/TonyCCintra/dio-lab-vibe-coding-app-financas](https://github.com/TonyCCintra/dio-lab-vibe-coding-app-financas)
+[TonyCCintra/dio-lab-vibe-coding-app-financas](https://github.com/TonyCCintra/dio-lab-vibe-coding-app-financas)
